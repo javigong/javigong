@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @javigong
+- 👋 Hi, I’m Javier
 - 👀 I’m interested in science and technology
 - 🌱 I’m currently learning Web App Development
 - 💞️ I’m looking to collaborate on ...
