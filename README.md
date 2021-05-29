@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Javier
-- 👀 I’m interested in science and technology
+- 👀 I’m interested in blockchain and behavioural economics
 - 🌱 I’m currently learning Web App Development
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on open source projects
 - 📫 Reach me at Twitter @javigong
 
 <!---
