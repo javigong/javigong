@@ -1,5 +1,5 @@
 - :vulcan_salute: Hi, I’m Javier
-- :dna: I’m interested in blockchain and behavioural economics
+- :dna: I’m interested in eLearning and coding
 - :rocket: I’m currently learning Web App Development
 - :busts_in_silhouette:	I’m looking to collaborate on open source projects
 - :bird: Reach me at Twitter @javigong
