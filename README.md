@@ -1,6 +1,6 @@
 - :vulcan_salute: Hi, I’m Javier
 - :dna: I’m interested in coding, science, and economics
-- :rocket: I’m currently learning web app development
+- :rocket: I’m currently learning web/mobile app development
 - :busts_in_silhouette:	I’m looking to collaborate on open source projects
 - :bird: Reach me at [LinkedIn](https://www.linkedin.com/in/javiergongora/) and [Twitter](https://twitter.com/javigong)
 
