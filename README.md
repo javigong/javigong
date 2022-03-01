@@ -1,7 +1,7 @@
-- :vulcan_salute: Hi, I’m Javier and I am a Web/Mobile App Developer.
+- :vulcan_salute: Hi, I’m Javier and I'm a Web/Mobile App Developer.
 - :dna: I’m interested in React/ReactNative development, healthcare science, and eLearning technologies.
-- :rocket: I'm currently finishing a Post-Degree in Web and Mobile App Design and Development at Langara College (Vancouver,BC), and I also have a background as a medical imaging technologist and eLearning content developer.
-- :busts_in_silhouette:	I’m open to work as a web/mobile app developer.
+- :rocket: I'm finishing a Post-Degree in Web and Mobile App Design and Development at Langara College (Vancouver,BC), and I also have a background as a medical imaging technologist and eLearning content developer.
+- :busts_in_silhouette:	I’m currently open to work as a web/mobile app developer.
 - :bird: Reach me at [LinkedIn](https://www.linkedin.com/in/javiergongora/) and [Twitter](https://twitter.com/javigong)
 
 <!---
