@@ -13,6 +13,7 @@
 ![Javier's GitHub stats](https://github-readme-stats.vercel.app/api?username=javigong&count_private=true&theme=react&show_icons=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=javigong&count_private=true&layout=compact&langs_count=8&show_icons=true&theme=react)](https://github.com/anuraghazra/github-readme-stats) 
 
+![](https://komarev.com/ghpvc/?username=javigong)
 
 <!---
 javigong/javigong is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
