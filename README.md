@@ -6,7 +6,11 @@
 
 - :busts_in_silhouette:	I’m currently open to work as a Full Stack React Developer.
 
+- :art: You can visit my Portfolio at [javiergongora.com](https://javiergongora.com)
+
 - :bird: Reach me at [LinkedIn](https://www.linkedin.com/in/javiergongora/), [Twitter](https://twitter.com/javigong) or send me an email at [jgongora@gmail.com](mailto:jgongora@gmail.com)
+
+
 
 <br/>
 
