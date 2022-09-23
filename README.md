@@ -2,7 +2,7 @@
 
 - :dna: I’m interested in Web and Mobile App development, and always curious on learning new emerging technologies.
 
-- :rocket: I recently graduated with a Post-Degree Diploma in Web/Mobile App Design and Development at Langara College (Vancouver, BC), and I have a background in healthcare as a Medical Imaging Technologist.
+- :rocket: I recently graduated with a Post-Degree Diploma in Web/Mobile App Design and Development at Langara College (Vancouver, BC)
 
 - :busts_in_silhouette:	I’m currently open to work as a Full Stack React Developer.
 
