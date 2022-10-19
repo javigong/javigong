@@ -4,7 +4,7 @@
 
 - :rocket: I recently graduated with a Post-Degree Diploma in Web/Mobile App Design and Development at Langara College (Vancouver, BC)
 
-- :busts_in_silhouette:	I’m currently open to work as a Full Stack React Developer.
+- :busts_in_silhouette:	I’m currently open to work as a Full Stack Developer.
 
 - :art: Visit my Portfolio here :point_right: [javiergongora.com](https://javiergongora.com)
 
