@@ -19,6 +19,20 @@
 
 ![skills](https://skillicons.dev/icons?i=html,css,js,ts,php,bash,react,nextjs,nodejs,express,wordpress,postgresql,mysql,sqlite,mongodb,tailwind,graphql,apollo,prisma,redux,firebase,aws,gcp,git,jest,vscode,vercel,figma,ps,ai&theme=light)
 
+## 👨‍🎨 Selected Projects
+
+
+[<img src="https://user-images.githubusercontent.com/42308135/206007513-4822e20f-293d-42b0-9915-f0893de49e7d.jpg"
+     height="155" width="290" style="object-fit: cover; float: left; margin-right: 10px;"/>
+](https://github.com/javigong/travel-nextjs-typescript-tailwind-mapbox-calendar-date-picker)
+[<img src="https://user-images.githubusercontent.com/42308135/206007481-648a4a7c-397a-45a6-af77-8f5d3bbdf3ce.jpg"
+     height="155" width="290" style="object-fit: cover; float: left; margin-right: 10px;"/>
+](https://github.com/javigong/fast-marketplace-nextjs-typescript-tailwind-redux-nextauth-firebase)
+[<img src="https://user-images.githubusercontent.com/42308135/206007444-6d13ce26-15e9-4ba5-9440-de6f44ef3ca8.jpg"
+     height="155" width="290" style="object-fit: cover; float: left; margin-right: 10px;"/>
+](https://github.com/javigong/writly-nextjs-typescript-tailwind-sanity)
+
+
 ## 📈 Stats
 
 <img height="190px" align="center" src="https://github-readme-stats.vercel.app/api?username=javigong&count_private=true&theme=react&show_icons=true" /><img height="190px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=javigong&count_private=true&layout=compact&langs_count=8&show_icons=true&theme=react" />
