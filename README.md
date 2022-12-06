@@ -1,6 +1,11 @@
 # Hi 👋, I'm Javier Gongora
 ### A passionate full-stack web developer base in Burnaby, BC
 
+[![Twitter Follow](https://img.shields.io/twitter/follow/javigong?style=social)](https://twitter.com/intent/follow?screen_name=javigong)
+[![GitHub followers](https://img.shields.io/github/followers/javigong?label=Follow&style=social)](https://github.com/javigong/?tab=follow)
+[![Gmail Badge](https://img.shields.io/badge/-jgongora-c14438?style=social&logo=Gmail&logoColor=red&link=mailto:jgongora@gmail.com)](mailto:jgongora@gmail.com)
+[![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-blue?style=social&logo=Linkedin&logoColor=blue&link=https://www.linkedin.com/in/javiergongora/)](https://www.linkedin.com/in/javiergongora/)
+
 - :dna: I’m interested in Web and Mobile App development, and always curious on learning new emerging technologies.
 
 - :rocket: I recently graduated with a Post-Degree Diploma in Web/Mobile App Design and Development at Langara College (Vancouver, BC)
