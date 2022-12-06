@@ -1,5 +1,5 @@
 # Hi 👋, I'm Javier Gongora
-### 👨‍💻 A passionate full-stack web developer base in Burnaby, BC
+### 👨‍💻 A passionate full-stack web developer based in Burnaby, BC
 
 [![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-blue?style=social&logo=Linkedin&logoColor=blue&link=https://www.linkedin.com/in/javiergongora/)](https://www.linkedin.com/in/javiergongora/)
 [![Gmail Badge](https://img.shields.io/badge/-jgongora-c14438?style=social&logo=Gmail&logoColor=red&link=mailto:jgongora@gmail.com)](mailto:jgongora@gmail.com)
