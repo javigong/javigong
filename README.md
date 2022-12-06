@@ -23,13 +23,13 @@
 
 
 [<img src="https://user-images.githubusercontent.com/42308135/206007513-4822e20f-293d-42b0-9915-f0893de49e7d.jpg"
-     height="155" width="290" style="object-fit: cover; float: left; margin-right: 10px;"/>
+     height="155" width="290" style="object-fit: cover; float: left; margin-right: 20px"/>
 ](https://github.com/javigong/travel-nextjs-typescript-tailwind-mapbox-calendar-date-picker)
 [<img src="https://user-images.githubusercontent.com/42308135/206007481-648a4a7c-397a-45a6-af77-8f5d3bbdf3ce.jpg"
-     height="155" width="290" style="object-fit: cover; float: left; margin-right: 10px;"/>
+     height="155" width="290" style="object-fit: cover; float: left; margin-right: 20px;"/>
 ](https://github.com/javigong/fast-marketplace-nextjs-typescript-tailwind-redux-nextauth-firebase)
 [<img src="https://user-images.githubusercontent.com/42308135/206007444-6d13ce26-15e9-4ba5-9440-de6f44ef3ca8.jpg"
-     height="155" width="290" style="object-fit: cover; float: left; margin-right: 10px;"/>
+     height="155" width="290" style="object-fit: cover; float: left; margin-right: 20px;"/>
 ](https://github.com/javigong/writly-nextjs-typescript-tailwind-sanity)
 
 
