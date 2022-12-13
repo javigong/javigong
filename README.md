@@ -21,7 +21,9 @@
 
 ## 👨‍🎨 Selected Projects
 
-
+[<img src="https://user-images.githubusercontent.com/42308135/207425608-e352c2d4-e7bd-44e9-bcf3-9d5d7e9eb4dc.jpg"
+     height="155" width="290" style="object-fit: cover; float: left; margin-right: 20px;"/>
+](https://github.com/javigong/circuitai-nextjs-typescript-redis-tailwind-nextauth)
 [<img src="https://user-images.githubusercontent.com/42308135/206007513-4822e20f-293d-42b0-9915-f0893de49e7d.jpg"
      height="155" width="290" style="object-fit: cover; float: left; margin-right: 20px"/>
 ](https://github.com/javigong/travel-nextjs-typescript-tailwind-mapbox-calendar-date-picker)
@@ -31,10 +33,6 @@
 [<img src="https://user-images.githubusercontent.com/42308135/206007444-6d13ce26-15e9-4ba5-9440-de6f44ef3ca8.jpg"
      height="155" width="290" style="object-fit: cover; float: left; margin-right: 20px;"/>
 ](https://github.com/javigong/writly-nextjs-typescript-tailwind-sanity)
-[<img src="https://user-images.githubusercontent.com/42308135/207207396-f5796336-2b8a-4b55-b861-6e076253831a.jpg"
-     height="155" width="290" style="object-fit: cover; float: left; margin-right: 20px;"/>
-](https://github.com/javigong/circuitai-nextjs-typescript-redis-tailwind-nextauth)
-
 
 ## 📈 Stats
 
