@@ -31,6 +31,9 @@
 [<img src="https://user-images.githubusercontent.com/42308135/206007444-6d13ce26-15e9-4ba5-9440-de6f44ef3ca8.jpg"
      height="155" width="290" style="object-fit: cover; float: left; margin-right: 20px;"/>
 ](https://github.com/javigong/writly-nextjs-typescript-tailwind-sanity)
+[<img src="https://user-images.githubusercontent.com/42308135/207207396-f5796336-2b8a-4b55-b861-6e076253831a.jpg"
+     height="155" width="290" style="object-fit: cover; float: left; margin-right: 20px;"/>
+](https://github.com/javigong/circuitai-nextjs-typescript-redis-tailwind-nextauth)
 
 
 ## 📈 Stats
