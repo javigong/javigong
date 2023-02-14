@@ -13,7 +13,7 @@
 
 - :art: Visit my Portfolio here :point_right: [javiergongora.com](https://javiergongora.com)
 
-- :bird: You can reach me at [LinkedIn](https://www.linkedin.com/in/javiergongora/), [Twitter](https://twitter.com/javigong) or send me an email at [jgongora@gmail.com](mailto:jgongora@gmail.com)
+- :bird: You can reach me at [LinkedIn](https://www.linkedin.com/in/javiergongora/), [Twitter](https://twitter.com/javigong), [Dev.to](https://dev.to/javigong) or send me an email at [jgongora@gmail.com](mailto:jgongora@gmail.com)
 
 ## 🛠 Technologies
 
