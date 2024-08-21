@@ -1,13 +1,13 @@
 # Hi 👋, I'm Javier Gongora
-### 👨‍💻 A passionate full-stack web developer based in British Columbia
+### 👨‍💻 A passionate full-stack web developer based in Kelowna, British Columbia
 
 [![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-blue?style=social&logo=Linkedin&logoColor=blue&link=https://www.linkedin.com/in/javiergongora/)](https://www.linkedin.com/in/javiergongora/)
 [![Gmail Badge](https://img.shields.io/badge/-jgongora-c14438?style=social&logo=Gmail&logoColor=red&link=mailto:jgongora@gmail.com)](mailto:jgongora@gmail.com)
 [![Twitter Follow](https://img.shields.io/twitter/follow/javigong?style=social)](https://twitter.com/intent/follow?screen_name=javigong)
 [![GitHub followers](https://img.shields.io/github/followers/javigong?label=Follow&style=social)](https://github.com/javigong/?tab=follow)
-- :dna: I’m interested in Web and Mobile App development, and always curious on learning new emerging technologies.
+- :dna: I’m passionate about Web and Mobile App development, with a strong interest in entrepreneurship. I'm driven to create apps that solve specific problems and make a real impact.
 
-- :rocket: I recently graduated with a Post-Degree Diploma in Web/Mobile App Design and Development at Langara College (Vancouver, BC)
+- :rocket: Graduated with a Post-Degree Diploma in Web and Mobile App Design and Development from Langara College, Vancouver, BC.
 
 - :busts_in_silhouette:	I’m currently working as a freelance developer and on my own SaaS project.
 
