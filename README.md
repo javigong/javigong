@@ -9,7 +9,7 @@
 
 - :rocket: I recently graduated with a Post-Degree Diploma in Web/Mobile App Design and Development at Langara College (Vancouver, BC)
 
-- :busts_in_silhouette:	I’m currently open to work as a Full Stack Developer.
+- :busts_in_silhouette:	I’m currently working as a freelance developer and on my own SaaS project.
 
 - :bird: You can reach me at [LinkedIn](https://www.linkedin.com/in/javiergongora/), [Twitter](https://twitter.com/javigong), [Dev.to](https://dev.to/javigong) or send me an email at [jgongora@gmail.com](mailto:jgongora@gmail.com)
 
