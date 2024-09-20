@@ -19,6 +19,9 @@
 
 ## 👨‍🎨 Selected Projects
 
+[<img src="https://github.com/user-attachments/assets/cc7274f2-f253-415b-ae50-2c94cdb17e08"
+     height="155" width="290" style="object-fit: cover; float: left; margin-right: 20px;"/>
+](https://github.com/javigong/next-sanity-commerce-stripe)
 [<img src="https://user-images.githubusercontent.com/42308135/207425608-e352c2d4-e7bd-44e9-bcf3-9d5d7e9eb4dc.jpg"
      height="155" width="290" style="object-fit: cover; float: left; margin-right: 20px;"/>
 ](https://github.com/javigong/circuitai-nextjs-typescript-redis-tailwind-nextauth)
