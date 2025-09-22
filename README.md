@@ -19,9 +19,17 @@
 
 ## 🚀 Last Projects
 
-### KDGS Admin Dashboard
+### KDGS Genealogy Platform
 
-**GitHub Repository**: [kdgs-admin-dashboard](<https://github.com/kdgs-develop/kdgs-admin-dashboard/edit/main/README.md#kdgs-admin-dashboard>)
+Complete Genealogy Management Solution for Kelowna and District Genealogical Society</strong>
+
+### 📋 Projects Overview
+
+**Access Repository**: [kdgs-admin-dashboard](<https://github.com/kdgs-develop/kdgs-admin-dashboard>)
+
+This repository contains two complementary applications that together provide a complete genealogy management solution:
+
+### KDGS Admin Dashboard
 
 #### Overview
 
