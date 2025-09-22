@@ -21,6 +21,8 @@
 
 ### KDGS Admin Dashboard
 
+**GitHub Repository**: [kdgs-admin-dashboard](<https://github.com/kdgs-develop/kdgs-admin-dashboard/edit/main/README.md#kdgs-admin-dashboard>)
+
 #### Overview
 
 The KDGS Admin Dashboard is a sophisticated internal management system designed specifically for genealogical society operations. It provides secure, role-based access to comprehensive obituary management, image processing, and administrative functions.
