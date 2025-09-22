@@ -17,23 +17,62 @@
 
 ![skills](https://skillicons.dev/icons?i=html,css,js,ts,php,bash,react,nextjs,nodejs,express,wordpress,postgresql,mysql,sqlite,mongodb,tailwind,graphql,apollo,prisma,redux,firebase,aws,gcp,git,jest,vscode,vercel,figma,ps,ai&theme=light)
 
-## 👨‍🎨 Selected Projects
+## 🚀 Last Projects
 
-[<img src="https://github.com/user-attachments/assets/cc7274f2-f253-415b-ae50-2c94cdb17e08"
-     height="155" width="290" style="object-fit: cover; float: left; margin-right: 20px;"/>
-](https://github.com/javigong/next-sanity-commerce-stripe)
-[<img src="https://user-images.githubusercontent.com/42308135/207425608-e352c2d4-e7bd-44e9-bcf3-9d5d7e9eb4dc.jpg"
-     height="155" width="290" style="object-fit: cover; float: left; margin-right: 20px;"/>
-](https://github.com/javigong/circuitai-nextjs-typescript-redis-tailwind-nextauth)
-[<img src="https://user-images.githubusercontent.com/42308135/206007513-4822e20f-293d-42b0-9915-f0893de49e7d.jpg"
-     height="155" width="290" style="object-fit: cover; float: left; margin-right: 20px"/>
-](https://github.com/javigong/travel-nextjs-typescript-tailwind-mapbox-calendar-date-picker)
-[<img src="https://user-images.githubusercontent.com/42308135/206007481-648a4a7c-397a-45a6-af77-8f5d3bbdf3ce.jpg"
-     height="155" width="290" style="object-fit: cover; float: left; margin-right: 20px;"/>
-](https://github.com/javigong/fast-marketplace-nextjs-typescript-tailwind-redux-nextauth-firebase)
-[<img src="https://user-images.githubusercontent.com/42308135/206007444-6d13ce26-15e9-4ba5-9440-de6f44ef3ca8.jpg"
-     height="155" width="290" style="object-fit: cover; float: left; margin-right: 20px;"/>
-](https://github.com/javigong/writly-nextjs-typescript-tailwind-sanity)
+### KDGS Admin Dashboard
+
+#### Overview
+
+The KDGS Admin Dashboard is a sophisticated internal management system designed specifically for genealogical society operations. It provides secure, role-based access to comprehensive obituary management, image processing, and administrative functions.
+
+#### Tech Stack
+
+- **Framework**: [Next.js 14](https://nextjs.org) (with App Router)
+- **Language**: [TypeScript](https://www.typescriptlang.org)
+- **Authentication**: [Clerk](https://clerk.com) (Role-based access control)
+- **Database**: [PostgreSQL](https://www.postgresql.org) with [Prisma](https://www.prisma.io) as ORM
+- **Styling**: [Tailwind CSS](https://tailwindcss.com)
+- **UI Components**: [Shadcn UI](https://ui.shadcn.com/)
+- **Forms**: [React Hook Form](https://react-hook-form.com) with [Zod](https://github.com/colinhacks/zod) for validation
+- **API**: Next.js API Routes
+- **Deployment**: [Vercel](https://vercel.com)
+- **File Storage**: [MinIO](https://min.io/)
+- **PDF Generation**: [pdf-lib](https://pdf-lib.js.org/)
+- **Email Service**: [EmailJS](https://www.emailjs.com/)
+
+### Screenshots
+
+[<img src="https://github.com/kdgs-develop/kdgs-admin-dashboard/blob/main/screenshots/admin-dashboard/admin-login-page.png"
+     height="320" width="580" style="object-fit: cover; float: left; margin-right: 20px;"/>
+](https://github.com/kdgs-develop/kdgs-admin-dashboard/edit/main/README.md#kdgs-admin-dashboard)
+
+### Public Search Page
+
+#### Overview
+
+The Public Search Page is a user-friendly portal designed for KDGS members and the general public to access the society's extensive obituary collection. It provides powerful search capabilities, e-commerce functionality for purchasing digital obituaries, and forms for requesting additional genealogical services.
+
+**Access**: [Public Search Portal](<https://search.kdgs.ca>)
+
+#### Tech Stack
+
+- **Framework**: [Next.js 14](https://nextjs.org) (with App Router)
+- **Language**: [TypeScript](https://www.typescriptlang.org)
+- **Authentication**: [Iron Session](https://github.com/vvo/iron-session) (Custom session management)
+- **Database**: [PostgreSQL](https://www.postgresql.org) with [Prisma](https://www.prisma.io) as ORM
+- **Styling**: [Tailwind CSS](https://tailwindcss.com)
+- **UI Components**: [Shadcn UI](https://ui.shadcn.com/)
+- **Forms**: [React Hook Form](https://react-hook-form.com) with [Zod](https://github.com/colinhacks/zod) for validation
+- **Payment Processing**: [Stripe](https://stripe.com) (E-commerce integration)
+- **API**: Next.js API Routes
+- **Deployment**: [Vercel](https://vercel.com)
+- **File Storage**: [MinIO](https://min.io/) (via shared admin system)
+
+### Screenshots
+
+[<img src="https://github.com/kdgs-develop/kdgs-admin-dashboard/blob/main/screenshots/public-search/search-homepage.png"
+     height="" width="580" style="object-fit: cover; float: left; margin-right: 20px;"/>
+]()
 
 ## 📈 Stats
 
